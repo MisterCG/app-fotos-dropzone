@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fotos-upload-47fff": {
+      "hosting": {
+        "fileupload": [
+          "fotos-upload-47fff"
+        ]
+      }
+    }
+  }
+}

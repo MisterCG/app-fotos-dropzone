@@ -117,8 +117,16 @@
               "devServerTarget": "fileupload:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "fileupload"
+    }
+  },
+  "defaultProject": "fileupload",
+  "cli": {
+    "analytics": "6648b1e6-1562-4869-b92e-762f54fe6717"
+  }
 }
